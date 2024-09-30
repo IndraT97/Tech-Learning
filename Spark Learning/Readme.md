@@ -1,7 +1,5 @@
 # Spark DataBricks Notes Summary
 
-## Spark
-
 Spark is an engine for performing data operations related to data engineering, machine learning, and other domains using a single node or multinode clusters.
 
 ### Key Features:
