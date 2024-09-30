@@ -1,6 +1,6 @@
-# Azure Data Governance
+# Azure Data Governance Summary
 
-## Azure (UC + RBAC)
+## Azure (Unity Catelog (UC) + Role based Access Control (RBAC))
 
 - P2 Licensed subscription is needed for RBAC group creation.
 - UC and RBAC are accessed through AAD.
