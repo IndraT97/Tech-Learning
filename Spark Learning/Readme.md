@@ -1,4 +1,4 @@
-# DataBricks Notes Summary
+# Spark DataBricks Notes Summary
 
 ## Spark
 
@@ -95,8 +95,3 @@ Spark is an engine for performing data operations related to data engineering, m
 
 ## Delta Live Tables (DLT):
 - A declarative ETL framework that simplifies SCD implementation and provides lineage tracking using Unity Catalog.
-
----
-
-This summarizes the main topics covered in your Databricks notes, using Markdown formatting. Let me know if you need any adjustments!
-
